@@ -4,6 +4,7 @@ I've already set up my web server, but I accidentally lost a Russian roulette fr
 Author: vicevirus
 
 ## Solutions
+ZIP File is provided, los.txt file is my solution file
 
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/ab77cb42-5247-4923-b8c4-1785a8fec827" />
 
