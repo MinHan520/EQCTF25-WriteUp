@@ -28,7 +28,8 @@ It is encrypted so we are able to use bkcrack to crack the zip file.
 
 Firstly, let's find the Key to decrypt the folder. By doing it we need to estimate what the index.html contains. So, let's create a plain.txt file
 
-echo '<DOCTYPE html>\n<html>\n<head>' > los.txt
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/6eafa7ac-f3d4-4bb9-bf45-b7dd085bfdef" />
+
 
 A plain text named <b>los.txt</b> is created and let's start to decrypt it.
 
