@@ -35,9 +35,13 @@ Hence, I need to run the flag.txt file without using the "flag" word.
 ### 3. Escaping the jail
 
 fn = o.sep + 'fl' + 'ag.txt' 
-f = getattr(o, 'o' + 'pen')(fn, 0)  --> f = os.open(./flag.txt, 0) which will read flag.txt with read only access
-d = getattr(o, 're' + 'ad')(f, 100)  --> d = os.read(f,100)
-getattr(o, 'wr' + 'ite')(2, d)  --> os.write(2,d)
+
+f = getattr(o, 'o' + 'pen')(fn, 0)  
+
+d = getattr(o, 're' + 'ad')(f, 100) 
+
+getattr(o, 'wr' + 'ite')(2, d)  
+
 EOF
 
 Rasional : 
