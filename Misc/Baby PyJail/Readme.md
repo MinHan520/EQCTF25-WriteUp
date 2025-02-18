@@ -47,3 +47,6 @@ Rasional :
 <b>d = os.read(f,100)</b> read the file data up to 100 bytes
 
 <b>os.write(2,d)</b> takes the bytes in d and sends them to the standard error stream
+
+
+Flag : <b>EQCTF{hmmm_pyj41l_s33ms_fun}</b>
